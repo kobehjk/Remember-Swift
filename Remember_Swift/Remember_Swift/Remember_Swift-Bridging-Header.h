@@ -10,5 +10,6 @@
 #define Remember_Swift_Bridging_Header_h
 
 #import "GLIRViewController.h"
+#import "CCDateView.h"
 
 #endif /* Remember_Swift_Bridging_Header_h */
